@@ -1,7 +1,7 @@
 # Individual Myofibril Analyser (IMA): A Tool for Automated Sarcomere Measurement
 **IMA** is a Python-based software designed to streamline and standardize the measurement of sarcomere length and width from microscopic images. It offers automated, semi-manual, and manual modes to accommodate diverse image conditions and user preferences.
 
-Required python version 3.12.8 and the following packeges: Pandas (version 2.2.3 tested), Matplotlib (version 3.9.3 tested), Numpy (version 2.2.0 tested), Opencv-python (version 4.10.0.84 tested), Aicsimageio (version 4.14 tested), aicspylibczi (version 3.2.0 tested), openpyxl (version 3.1.5 tested)
+Required python version 3.12.8 and the following packeges: Pandas (version 2.2.3 tested), Matplotlib (version 3.9.3 tested), Numpy (version 2.2.0 tested), Opencv-python (version 4.10.0.84 tested), Aicsimageio (version 4.14 tested), aicspylibczi (version 3.2.0 tested), openpyxl (version 3.1.5 tested 3.2.0 doesn't work at the moment)
 
 # Key Features:
 
